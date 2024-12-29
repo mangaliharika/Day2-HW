@@ -1,0 +1,63 @@
+.boxPad{
+    border:solid black 1px;
+    padding:10px;
+}
+.abt{
+    border:solid black 1px;
+    background-color: green;
+    color:white;
+    font-size: 25px;
+}
+.hrd{
+    border:solid green 1px;
+    background-color: aqua;
+    margin: 0px;
+    font-size: 20px;
+}
+.para{
+    border: solid green 1px;
+    background-color: pink;
+    margin:0%;
+    font-size: smaller;
+    padding:5px;
+}
+.marg{
+    margin:0px;
+}
+.prj{
+    border: solid green 1px;
+    background-color: pink;
+    margin:0%;
+    font-size: smaller;
+    padding:5px;
+    border-radius: 12px;
+}
+.hrd2{
+    border:none;
+    background-color: aqua;
+    margin: 0px;
+    font-size: 20px;
+}
+.brd{
+    border:solid black 1px;
+    border-radius: 5px;
+    padding:10px;
+}
+.button{
+    border:none;
+    background-color: green;
+    color: white;
+    width: 15%;
+    padding: 5px;
+    border-radius: 3px;
+    margin-left: 7%;
+}
+/* .thanknote{
+    border:none;
+    background-color: black;
+    color: white;
+    padding:10px;
+    padding-left: 40%;
+    padding-bottom: 100px;
+    margin-top: 10px;
+} */
